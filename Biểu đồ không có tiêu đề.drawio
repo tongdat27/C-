@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T13:08:02.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="2K7NGnqXfhwrA_fFY08j" version="20.6.0" type="github" pages="62">
+<mxfile host="app.diagrams.net" modified="2022-12-01T03:54:47.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="dLk2pZs0Cwddts15MRXW" version="20.5.3" type="github" pages="62">
   <diagram id="g-IwPX8hhgaD8sROpPOh" name="tt dang nhap">
-    <mxGraphModel dx="1055" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -600,7 +600,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7sEKU-E7vrLRzo7nFG_P" name="UC tổng quát">
-    <mxGraphModel dx="1055" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1068,7 +1068,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Hqc6EgBlEwBnCfrG9z_i" name="uc nhan vien">
-    <mxGraphModel dx="1055" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1490,11 +1490,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="X0Pa5SpdbajHk0FxzyOp-1" value="Tìm kiếm&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;labelBackgroundColor=default;fontColor=#000000;fontStyle=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="554" y="1010" width="151" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X0Pa5SpdbajHk0FxzyOp-2" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1" source="X0Pa5SpdbajHk0FxzyOp-1" target="ZpHnh_WE4odlHeSEU8pg-8">
+          <mxGeometry x="0.0904" y="-3" width="160" relative="1" as="geometry">
+            <mxPoint x="440.04100020400233" y="985.340969434096" as="sourcePoint" />
+            <mxPoint x="279.55999999999995" y="1071" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="vfALY1w-z4iknqRuoUw_" name="UC Admin">
-    <mxGraphModel dx="1055" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
