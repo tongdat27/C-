@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-10T01:40:56.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="Tswis9xQYtc06XQ273zp" version="20.6.0" type="github" pages="65">
+<mxfile host="app.diagrams.net" modified="2022-12-10T01:47:52.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="abGhpRbJXcK8ATbRu-2t" version="20.6.0" type="github" pages="65">
   <diagram id="g-IwPX8hhgaD8sROpPOh" name="tt dang nhap">
     <mxGraphModel dx="1055" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1056,6 +1056,12 @@
         </mxCell>
         <mxCell id="Oba28bKxxB0Znl_UwA7_-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Xác thực số điện thoại&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;labelBackgroundColor=default;fontColor=#000000;fontStyle=1;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="930" y="490" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQ1W88znYIsvAOcTY-Rj-1" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=14;labelBackgroundColor=default;fontColor=#000000;fontStyle=1;labelBorderColor=none;" edge="1" parent="1" source="Oba28bKxxB0Znl_UwA7_-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="575" as="sourcePoint" />
+            <mxPoint x="1240" y="725.8571428571429" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
